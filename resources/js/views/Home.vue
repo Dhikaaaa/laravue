@@ -4,7 +4,9 @@
             Home
         </div>
         <div class="card-body">
-            Ini halaman Home
+            <h1>
+                Welcome to Laravue
+            </h1>
         </div>
     </div>
 </template>
